@@ -1,6 +1,6 @@
 # Pan Pangenome Reference Project
 
-The Pan Pangenome Reference Project seeks to construct a pangenomic resource for humans closest living relatives - chipmanzees and bonobos of the pan clade.
+The Pan Pangenome Reference Project seeks to construct a pangenomic resource for humans closest living relatives - chimpanzees and bonobos of the pan clade.
 The Phase I goal of this project is produce a high quality resource for comparative genomics and comparative population genetics that can be intergrated directly with the ongoing efforts of the Human Pangenome Reference Project (HRPC). 
 
 ## Samples
