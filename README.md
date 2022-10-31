@@ -25,7 +25,7 @@ All samples are sequenced to at least 30x with PacBio HiFi. Samples with HiC and
 | PR01010   | Pan troglodytes (schweinfurthii)               | PacBio HiFi, HiC, ONT-UL   | shipped to Kendra              |
 | PR00496A  | Pan troglodytes (troglodytes? schweinfurthii?) | PacBio HiFi                |                                |
 
-***\*Duplicate w/ primate T2T efforts***
+***\*Duplicate w/ primate T2T efforts*** Data shared w/ William Harvey by Globus 10/31/2022
 
 ## Sequencing and Data Production
 - PacBio HiFi Data Produced by UC Berkeley
